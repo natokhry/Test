@@ -56,6 +56,7 @@ public class BalancePageController implements Initializable {
         Quotes qt = new Quotes();
         String quote = qt.returnQuotes();
         quotedisbp.setText(quote);
+        jdjdjdjdj
     }
     public void StqDepositPage() {
         Quotes qt = new Quotes();
